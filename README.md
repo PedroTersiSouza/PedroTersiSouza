@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Pedro Tersi, tenho 16 anos e sou natural de São Paulo.".
+Me chamo Pedro Tersi, tenho 16 anos e sou natural de São Paulo.
 
 <p align="left">
     <a href="https://github.com/PedroTersiSouza?tab=repositories&sort=stargazers">
